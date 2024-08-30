@@ -278,8 +278,8 @@ echo   A. Custom
 if "!MODE!" == "main" echo   B. Developer Mode
 if "!MODE!" == "dev" echo   B. Normal Mode
 echo.
-set choice=
-set /p choice=Type the number or letter to fetch the corresponding app and hit enter. 
+set "choice=A"
+echo Automatically selected: %choice%
 if not defined choice goto start
 if %choice% geq 1 if %choice% leq %k% ( goto app_download )
 if '%choice%'=='A' goto custom
