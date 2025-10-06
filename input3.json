@@ -8,23 +8,23 @@
                 "hash": "4101fb68491f0542ea02f27416c285c6bada1638359b52499ee0edcaf2c95c49"
             },
             "patches": {
-                "fname": "revanced-patches-4.13.3.jar",
-                "link": "https://github.com/ReVanced/revanced-patches/releases/download/v4.13.3/revanced-patches-4.13.3.jar",
-                "hash": "3361c4b5251c46b467b9c79df128857845ab2740258759287e44fba8a638644c"
+                "fname": "revanced-patches-4.15.0.jar",
+                "link": "https://github.com/ReVanced/revanced-patches/releases/download/v4.15.0/revanced-patches-4.15.0.jar",
+                "hash": "5dbb6b7430b443339b844c7f20a12d9ca8c0b0a39fb57a5f342fff4cc99265ed"
             },
             "integrations": {
-                "fname": "revanced-integrations-1.13.0.apk",
-                "link": "https://github.com/ReVanced/revanced-integrations/releases/download/v1.13.0/revanced-integrations-1.13.0.apk",
-                "hash": "355fadb6f99610527d2484b2a84ba8730cebc15d4893eb47456b9b48e6fe732e"
+                "fname": "revanced-integrations-1.14.2.apk",
+                "link": "https://github.com/ReVanced/revanced-integrations/releases/download/v1.14.2/revanced-integrations-1.14.2.apk",
+                "hash": "ff8f3f69700b66f56741d3026cf311ce416c9ccc3915478a47af810a088ab0a7"
             },
             "JDK": {
                 "fname": "jdk.zip",
-                "link": "https://cdn.discordapp.com/attachments/1149345921516187789/1149793623324504084/jdk.zip?ex=66d22241&is=66d0d0c1&hm=ec7edf17827f70e2fc1fe5c14612b3f5a58f663214aa986eeb83a546546705e2&",
+                "link": "https://cdn.discordapp.com/attachments/1149345921516187789/1149793623324504084/jdk.zip?ex=673502c1&is=6733b141&hm=88d261901159bcb09f52019fff3a29add233aa62297b67dd25d4541fae9f5352&",
                 "hash": "5c6b84417f108479c0ff5adc5a3bff1e1af531129573fcfeb2520f8395282e34"
             },
             "BCS": {
                 "fname": "bcprov-jdk18on-176.jar",
-                "link": "https://cdn.discordapp.com/attachments/1149345921516187789/1159572530642825378/bcprov-jdk18on-176.jar?ex=66d21d13&is=66d0cb93&hm=88856a071cfe58ee0f1dcba5671434ea79fdca3d89784db01e07df2f11c6ee6d&",
+                "link": "https://cdn.discordapp.com/attachments/1149345921516187789/1159572530642825378/bcprov-jdk18on-176.jar?ex=6734fd93&is=6733ac13&hm=8a616c0f5004c24de60df8c1cc7772c58c05a8442db6fe8fab5b354dea392f51&",
                 "hash": "fda85d777aaae168015860b23a77cad9b8d3a1d5c904fda875313427bd560179"
             }
         },
@@ -52,14 +52,14 @@
                 "hash": "e048a784b83bb09d4909620afa74c7c7f985ebbade4178dee16fe487053ac12f"
             },
             "patches": {
-                "fname": "revanced-patches-a6_7-2.160.10.jar",
-                "link": "https://github.com/kitadai31/revanced-patches-android6-7/releases/download/v2.160.10/revanced-patches-2.160.10.jar",
-                "hash": "f5fdb566c165ae9c02682c6f7acec63aefb5cdd530caeeaf07e730e30e4d33a7"
+                "fname": "revanced-patches-a6_7-2.160.11.jar",
+                "link": "https://github.com/kitadai31/revanced-patches-android6-7/releases/download/v2.160.11/revanced-patches-2.160.11.jar",
+                "hash": "aca8099af25b691bd5913ce0f9fe1fa7c175afe6707d09f6a1a32b1b1a38f970"
             },
             "integrations": {
-                "fname": "revanced-integrations-a6_7-0.96.10.apk",
-                "link": "https://github.com/kitadai31/revanced-integrations/releases/download/v0.96.10/revanced-integrations-0.96.10.apk",
-                "hash": "551a460d6033c9ab9eb25d9f93a591e65e8838d7cf54a36891f1e4d51af45207"
+                "fname": "revanced-integrations-a6_7-0.96.11.apk",
+                "link": "https://github.com/kitadai31/revanced-integrations/releases/download/v0.96.11/revanced-integrations-0.96.11.apk",
+                "hash": "761f713080888b813a218246539bf47ce4c83028092ba0774090d29277c09962"
             }
         },
         "piko_tools": {
@@ -101,360 +101,13 @@
                 "fname": null
             },
             {
-                "fname": "YouTube.apk",
-                "dname": "YouTube (Stock logo) (19.16.39)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1247255825630892154/com.google.android.youtube_19.16.39-1545731520.apk?ex=66d20f81&is=66d0be01&hm=8ceebc60803b799162c28ae4bbde552559be96c948bd5e3ba81b7413c1481e32&",
-                "hash": "5b846ee14af233dd5c342370d4df371d64ba496ce2dd052cc09e01d59c040a83",
+                "fname": "empty.apk",
+                "dname": "This tool has been discontinued. Check our the new ReVanced Manager instead or the recently closed issues on github.",
+                "link": "empty",
+                "hash": "",
                 "patches": " ",
                 "uri" : " ",
                 "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": true },
-                    { 
-                        "ename" : "microG",
-                        "required" : true
-                    },
-                    { 
-                        "ename" : "seal",
-                        "required" : false
-                    }
-                ]
-            },
-            {
-                "fname": "YouTube.apk",
-                "dname": "YouTube (ReVanced logo) (19.16.39)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1247255825630892154/com.google.android.youtube_19.16.39-1545731520.apk?ex=66d20f81&is=66d0be01&hm=8ceebc60803b799162c28ae4bbde552559be96c948bd5e3ba81b7413c1481e32&",
-                "hash": "5b846ee14af233dd5c342370d4df371d64ba496ce2dd052cc09e01d59c040a83",
-                "patches": "-i \"Custom branding\"",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": true },
-                    { 
-                        "ename" : "microG",
-                        "required" : true
-                    },
-                    { 
-                        "ename" : "seal",
-                        "required" : false
-                    }
-                ]
-            },
-			{
-                "fname": "YouTube_Music.apk",
-                "dname": "YouTube Music (Google Pixel / Galaxy S24) (7.03.52)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1249439729330684026/com.google.android.apps.youtube.music_7.03.52-70352240-v8a.apk?ex=66d2186c&is=66d0c6ec&hm=6247995f4a8755279109c3e60ae03f7bbe03110abd3bcb347100894aeac3f431&",
-                "hash": "3c605549122de305b8dd36ed1a7996cd905ae29a979e4b744caecdcb20ed4650",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": true },
-                    { 
-                        "ename" : "microG",
-                        "required" : true
-                    }
-                ]
-            },
-			{
-                "fname": "YouTube_Music.apk",
-                "dname": "YouTube Music (other devices) (7.03.52)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1249439640465707158/com.google.android.apps.youtube.music_7.03.52-70352230i-v7a.apk?ex=66d21857&is=66d0c6d7&hm=0b7a7d7b2de6e4aacfca0be44e10800c0ce17bc16b97e38f1eec40e4a679d259&",
-                "hash": "8b023b4f9babd33ec08bb7ebdbe8674de3c03255a344a5c5dfbc98ddd395ccb2",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": true },
-                    { 
-                        "ename" : "microG",
-                        "required" : true
-                    }
-                ]
-            },
-			{
-                "fname": "TikTok.apk",
-                "dname": "TikTok (32.5.3)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1184207062251622510/com.zhiliaoapp.musically_32.5.3-2023205030.apk?ex=66d215c5&is=66d0c445&hm=f834ae24a1d061629f04873efdb1bf874c4e5a0c71f4ae0703f2c29b9aaab002&",
-                "hash": "ceb5f0e9dc1173a811fb16802cacc97845e09b12f5a70bcdb9a7eb9849f79f43",
-                "patches": "-i \"SIM spoof\"",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-			{
-                "fname": "Twitch.apk",
-                "dname": "Twitch (16.9.1)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1179519043204550718/tv.twitch.android.app_16.9.1-1609016.apk?ex=66d22b36&is=66d0d9b6&hm=5c8d3e28dcdec29ecd3228fffa9e0f9a7d4a7ef855a8fe2284aaad4d175e90b5&",
-                "hash": "137ee0a1e474c2a57f7db0a869f7d78d8225d3468ead7afbbf0d5d56cf29545e",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-			{
-                "fname": "Twitter.apk",
-                "dname": "Twitter (Android 8+) (10.49.0)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1264636504131764244/com.twitter.android_10.49.0-release.0-310490000.apk?ex=66d20286&is=66d0b106&hm=6708b143d5f56db776c12f66e783467c77272d03e1ac9f9b9345fb48c76b4049&",
-                "hash": "bad49bc850736fe34cb68fb2d7f7f33bc1978bee5185e1db6a823c8cf3cc4522",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-			{
-                "fname": "Twitter.apk",
-                "dname": "Twitter (Android 6+) (10.23.0)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1239253482004021258/com.twitter.android_10.23.0-release.0-310230000.apk?ex=66d1f3be&is=66d0a23e&hm=78794ad23d976243783f5c7936796b67c4367ba3db7217cb0eacafe40ff0c2a1&",
-                "hash": "298f21ff824e135689b70125180e80f2b42aff477a9c20ab9eb2b95b2f05cb49",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-			{
-                "fname": "Trakt.apk",
-                "dname": "Trakt (1.1.1)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1191875716799811584/tv.trakt.trakt_1.1.1-71.apk?ex=66d24c42&is=66d0fac2&hm=d3504e725b1c938de307c2ad0747d65f76532edb7fb812387499b2f6fe829eaf&",
-                "hash": "0cbf4602bf3885e150d247cfdadab188bd5a9c511ec607c70c1848e0fd4a0631",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-			{
-                "fname": "Instagram.apk",
-                "dname": "Instagram (345.0.0.48.95)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1277684670846468136/com.instagram.android_345.0.0.48.95-374511747.apk?ex=66d20493&is=66d0b313&hm=45b3462c5a0649e56e252a71a5fa592d19560f66970c2828c3ee1291578f76cb&",
-                "hash": "d91cdbbc1778285f633bd3802deccf9f958496d9b8fb431224124f1a53f30385",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "Sync.apk",
-                "dname": "Sync for Reddit (23.06.30-13:39)",
-                "link": "https://cdn.discordapp.com/attachments/1149345921516187789/1155165102341898292/com.laurencedawson.reddit_sync_v23.06.30-13_39-23033.apk?ex=66d1e656&is=66d094d6&hm=3a9fc34f12c6a6cd89c27dfd09891d7b941755a649b8358cbf8a44218538c428&",
-                "hash": "6469a8dcc8e2a097892f84e8962e94965713be327b18db6a3110ed96f7fa4190",
-                "patches": " ",
-                "uri" : "http://redditsync/auth",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "Infinity.apk",
-                "dname": "Infinity for Reddit (7.0.0)",
-                "link": "https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/download/v7.0.0/Infinity-v7.0.0.apk",
-                "hash": "49aa636801039723d500df2bd91affff46f1f7bc68e44b58b846a9ad3087a985",
-                "patches": " ",
-                "uri" : "infinity://localhost",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "Relay.apk",
-                "dname": "Relay for Reddit (10.2.40)",
-                "link": "https://cdn.discordapp.com/attachments/1149345921516187789/1159570057324671026/free.reddit.news_10.2.40-641.apk?ex=66d21ac5&is=66d0c945&hm=b8a35f0d73389830d272b68c2b210f51f7ce30b0bacf0bb8f41fd1e34e75d963&",
-                "hash": "bab6f726d1932ef8ffccf43ff741a5b34dff505ea16d15d5474bd9855f588df1",
-                "patches": " ",
-                "uri" : "dbrady://relay",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "Boost.apk",
-                "dname": "Boost for Reddit (1.12.12)",
-                "link": "https://cdn.discordapp.com/attachments/1149345921516187789/1154220795447488552/com.rubenmayayo.reddit_1.12.12-210011212.apk?ex=66d1c2a2&is=66d07122&hm=2f615857f5c1d89355152791a665c821e3d11d4fa7dd1f8264731a0391553834&",
-                "hash": "a68c22d632a5dd1f446c3759a171c7dbb9edab2afc3c2f87e39323f198606742",
-                "patches": " ",
-                "uri" : "http://rubenmayayo.com",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "Slide.apk",
-                "dname": "Slide for Reddit (6.7.1)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1184263939589161010/me.ccrama.redditslide_6.7.1-337.apk?ex=66d24abd&is=66d0f93d&hm=ca75e91216e5198d929d405d5ef4b5741dcaf3f307d375442c457d3f7d55420f&",
-                "hash": "68b5cd83dc4be19e627fb9b0052877cf36930856b013a9564c17f61ddab7cc30",
-                "patches": " ",
-                "uri" : "http://www.ccrama.me",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "BaconReader.apk",
-                "dname": "BaconReader (6.1.4)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1184265546309570641/com.onelouder.baconreader_6.1.4-183.apk?ex=66d24c3c&is=66d0fabc&hm=a4960c562295de4d38b19daf6c152a23dde104a84d184ce7c254cabe49d21035&",
-                "hash": "c8a66396f027695b6d0dbb474b849b04775c4b1238a3bdc83d2dcdaa7b7a997b",
-                "patches": " ",
-                "uri" : "http://baconreader.com/auth",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "RiF.apk",
-                "dname": "Rif for Reddit (5.6.22)",
-                "link": "https://cdn.discordapp.com/attachments/1149345921516187789/1156940114342195242/com.andrewshu.android.reddit_5.6.22-4622.apk?ex=66d1c3f2&is=66d07272&hm=1c29d18908f458ae8671b93eadce7170c133b70ccab58abf337cff99a5de4eb0&",
-                "hash": "88d39f859c850f51542c6a12d8bd3c79706debe0f1dff061ed0fe32b3dc688e1",
-                "patches": " ",
-                "uri" : "redditisfun://auth",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "Reddit.apk",
-                "dname": "Reddit (2024.17.0)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1247256327755923541/com.reddit.frontpage_2024.17.0-1568106.apk?ex=66d20ff9&is=66d0be79&hm=716816b5ea0d85c6af5ddf97debbba29acad35d6a60e89c785d62b9ff4925e66&",
-                "hash": "3b0eda811fe533ce016734316447c3bc4d084f21d40e535386d9ac153b6523d4",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "Lightroom.apk",
-                "dname": "Lightroom (9.2.1)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1221413428321587290/com.adobe.lrmobile_9.2.1-710902100.apk?ex=66d24f26&is=66d0fda6&hm=ed8f374292580c697ab7b5c81e4b4f3e886a517d39fc4d7395b679dce24004b2&",
-                "hash": "7f339b7aa2672e9d5b1dc63179e73eb8d0666b74c4ded146c3b1da4208f45ff2",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : " ",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-            {
-                "fname": "YouTube.apk",
-                "dname": "YouTube Android 5 (16.40.36)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1167877731510407238/com.google.android.youtube_16.40.36-1523705280.apk?ex=66d20165&is=66d0afe5&hm=66a391dbba796371d10aca81dc01596fb08eb180006d7dbecefe3d07e031de51&",
-                "hash": "a56252e640d3528536b2fcd243d7d30e5c0ebdb4c81fa017a9a45da9aaafcfb6",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : "YT_android_5_",
-                "cmdMod" : "\"!CLI!\" patch !fname! -b \"!PATCHES!\" -m \"!INTEGRATIONS!\" !patch_sel! !OPTIONS! -o PATCHED_!fname! ",
-                "extras" : [
-                    { "enabled": true },
-                    { 
-                        "ename" : "microG",
-                        "required" : true
-                    },
-                    {
-                        "ename" : "seal",
-                        "required" : false
-                    }
-                ]
-            },
-            {
-                "fname": "YouTube_A_6-7.apk",
-                "dname": "YouTube Android 6 / 7 (Stock logo) (17.34.36)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1167958795264217158/com.google.android.youtube_17.34.36-1531307456.apk?ex=66d24ce4&is=66d0fb64&hm=977cbc21ca4970114d66d299a5918690748a4476cfab1c06f3d3b69a4bf35765&",
-                "hash": "9c71f516434858b87663810f25b88716c71fb75a72f5e6875937e6b0009e0bf6",
-                "patches": "-e \"custom-branding-name\" -e \"custom-branding-icon-afn-blue\" -e \"custom-branding-icon-afn-red\" -e \"custom-branding-icon-revancify\"",
-                "uri" : " ",
-                "toolMod" : "YT_android_6_7_",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": true },
-                    { 
-                        "ename" : "microG",
-                        "required" : true
-                    },
-                    { 
-                        "ename" : "seal",
-                        "required" : false
-                    }
-                ]
-            },
-            {
-                "fname": "YouTube_A_6-7.apk",
-                "dname": "YouTube Android 6 / 7 (RVX logo) (17.34.36)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1167958795264217158/com.google.android.youtube_17.34.36-1531307456.apk?ex=66d24ce4&is=66d0fb64&hm=977cbc21ca4970114d66d299a5918690748a4476cfab1c06f3d3b69a4bf35765&",
-                "hash": "9c71f516434858b87663810f25b88716c71fb75a72f5e6875937e6b0009e0bf6",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : "YT_android_6_7_",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": true },
-                    { 
-                        "ename" : "microG",
-                        "required" : true
-                    },
-                    { 
-                        "ename" : "seal",
-                        "required" : false
-                    }
-                ]
-            },
-			{
-                "fname": "Twitter.apk",
-                "dname": "Twitter piko by crimera (10.49.0)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1264636504131764244/com.twitter.android_10.49.0-release.0-310490000.apk?ex=66d20286&is=66d0b106&hm=6708b143d5f56db776c12f66e783467c77272d03e1ac9f9b9345fb48c76b4049&",
-                "hash": "bad49bc850736fe34cb68fb2d7f7f33bc1978bee5185e1db6a823c8cf3cc4522",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : "piko_",
-                "cmdMod" : " ",
-                "extras" : [
-                    { "enabled": false }
-                ]
-            },
-			{
-                "fname": "Spotify.apk",
-                "dname": "Spotify (8.9.8.545)",
-                "link": "https://cdn.discordapp.com/attachments/1159971981869977632/1242573980553187348/com.spotify.music_8.9.8.545.apk?ex=66d22ab2&is=66d0d932&hm=b0e8e8f2aabfb991dc2665287fc6b2b5573261e4bbd1e1a1ea3a99df27ccffeb&",
-                "hash": "31b0825d86aaca3bb58789e312437d07f31b9399a0625ddf43103814ebd621a6",
-                "patches": " ",
-                "uri" : " ",
-                "toolMod" : "dropped_",
                 "cmdMod" : " ",
                 "extras" : [
                     { "enabled": false }
